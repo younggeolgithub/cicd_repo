@@ -1,0 +1,12 @@
+1. main
+login
+	menu
+	-about
+	a)company intro b)technology intro c)contact info
+	-community
+	a) social media b) news
+	-products
+	a)laptop b)desktop c)accesory
+	-support
+	a)QnA b)search product c)AA center
+	
